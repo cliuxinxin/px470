@@ -1,2 +1,13 @@
-exp/log/py_app.liuxinxindeMacBook-Pro.local.liuxinxin.2023-04-10_10-03-42_912999.log
-exp/log/py_app.liuxinxindeMacBook-Pro.local.liuxinxin.2023-04-10_11-14-30_361883.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
